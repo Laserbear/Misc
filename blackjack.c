@@ -5,7 +5,7 @@ int drawcard() {
 }
 
 
-void main() {
+int main(void) {
     srand(time(NULL));
     printf("Ayy bb, les play\n");
     int hand_value = 0;
